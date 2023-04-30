@@ -4,12 +4,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: https://github.com/Afonina-Ola/react-mesto-api-full-gha
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 158.160.23.53
 
-Frontend https://...
+Frontend  https://homamesto.nomoredomains.monster
 
-Backend https://...
+Backend https://backend.homamesto.nomoredomains.monster

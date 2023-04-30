@@ -1,0 +1,16 @@
+.sign__link {
+  display: block;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #ffffff;
+  margin: 15px auto 0;
+  transition: opacity 0.4s;
+}
+
+.sign__link:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
